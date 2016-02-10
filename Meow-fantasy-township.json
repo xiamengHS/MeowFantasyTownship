@@ -8,7 +8,7 @@
     "description": "喵呜幻想乡ver1.0.4
         1.修正大量BUG、
         2.添加星系mod",
-    "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
+    "updatePath": "https://raw.githubusercontent.com/xiamengHS/MeowFantasyTownship/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
             {
